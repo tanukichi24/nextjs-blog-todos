@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/link-passhref */
 import { useEffect } from 'react';
 import Layout from '../components/Layout';
 import Link from 'next/Link';

@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/link-passhref */
 import { useRouter } from 'next/router';
 import Cookie from 'universal-cookie';
 import Layout from '../components/Layout';
